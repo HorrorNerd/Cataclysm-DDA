@@ -13,6 +13,16 @@
             "jerk",
             "motherfucker",
             "shithead"
+			"friend"
+			"pal"
+			"chum"
+			"you mongrel"
+			"fool"
+			"tootsie"
+			"bro"
+			"brother"
+			"home-boy"
+			"homie"
         ]
     },{
         "type" : "snippet",
@@ -27,7 +37,13 @@
             "I <really> need to get some water.",
             "<ill_die> if I don't drink something.",
             "Water... Is there an oasis nearby?",
-            "Did you know that lack of water kills faster than lack of rest?"
+            "Did you know that lack of water kills faster than lack of rest?",
+			"I've been existing only on my tears and I'm all out. Can you spare some H2O?",
+			"I could use a drink, <name_g>. Have anything to spare?",
+			"I need to wet my whistle.",
+			"My whistle is <swear> dry!",
+			"Damn throat is dryer than grandma's <swear> vagina.",
+			"Damn throat is dryer than grandma's vagina."
         ]
     },{
         "type" : "snippet",
@@ -37,12 +53,18 @@
             "damn",
             "damnit",
             "shit",
-            "fuckit",
+            "fucking",
             "crap",
             "motherfucker",
             "<swear><punc> <swear!>",
             "<very> <swear!>",
-            "son of an ass"
+            "son of a bitch",
+			"cunt licking",
+			"fuck",
+			"asshole",
+			"ass",
+			"pussy",
+			"cunt"
         ]
     },{
         "type" : "snippet",
@@ -56,7 +78,8 @@
             "<very> <sad>",
             "dejected",
             "down",
-            "glum"
+            "glum",
+			"blue"
         ]
     },{
         "type" : "snippet",
@@ -71,7 +94,19 @@
             "What's up, <name_g>?",
             "You okay, <name_g>?",
             "Hello, <name_g>.",
-            "Hi <name_g>"
+            "Hi <name_g>",
+			"Hello, Chap.",
+			"Hi, Chap.",
+			"Howdy there, <name_g>.",
+			"Well, hello there!",
+			"You're a sight for sore eyes.",
+			"You're a sight for sore eyes, <name_g>.",
+			"Hello, beautiful!",
+			"Hello, handsome!",
+			"What's shaking ?",
+			"How's it hanging ?",
+			"How's it hanging, <name_g>?"
+			
         ]
     },{
         "type" : "snippet",
@@ -86,7 +121,13 @@
             "no way in hell",
             "nuh uh",
             "nope",
-            "fat chance"
+            "fat chance",
+			"that's a whole lot of nope.",
+			"that's a big negative.",
+			"negative",
+			"not no, but hell no !",
+			"gimme a break",
+			"fuck that!"
         ]
     },{
         "type" : "snippet",
@@ -96,12 +137,15 @@
             "Hasta luego, <name_g>!",
             "I'm outta here!",
             "Bye bye, <name_b>!",
-            "So long, <name_b>!",
-            "Hasta luego, <name_g>!",
-            "I'm outta here!",
-            "Bye bye, <name_b>!",
-            "I'm outta here!",
-            "Bye bye, <name_b>!"
+            "It's been a treat, but i'm leaving.",
+			"It's been a blast, <name_g>.",
+			"Catch you on the flip side.",
+			"Catch you on the flip side, <name_g>.",
+			"I'm not hanging around someone I can't trust.",
+			"You're crazy, I'm leaving.",
+			"Fuck off, crazy dingbat!"
+			
+            
         ]
     },{
         "type" : "snippet",
@@ -115,7 +159,11 @@
             "you're a dead <man>",
             "you'll taste my <mywp>",
             "you're <swear> dead",
-            "<name_b>, <ill_kill_you>"
+            "<name_b>, <ill_kill_you>",
+			"I'm going to tear off your head and feed it to the Z's.",
+			"I'll <swear> destroy you, <name_g>!",
+			"I'll kill you, but I promise <name_g>, it wil be quick."
+			
         ]
     },{
         "type" : "snippet",
@@ -130,7 +178,16 @@
             "I'm <very> doomed",
             "I'm done for",
             "I won't last much longer",
-            "my days are <really> numbered"
+            "my days are <really> numbered",
+			"The buzzards are closing in on me.",
+			"I can see the bright light!",
+			"I'm knocking on death's door.",
+			"Tell maw and paw I tried, but death has other plans.",
+			"I'll be six foot under soon.",
+			"I'm <swear> doomed!",
+			"Been great knowing you, <name_g>. My time as come.",
+			"I welcome the reaper. Death is an escape from this shit hole!"
+			
         ]
     },{
         "type" : "snippet",
@@ -145,7 +202,9 @@
             "<name_g>, where are you?",
             "Hey <name_g><punc> Wait for me!",
             "Where are you?!",
-            "Hey, I'm over here!"
+            "Hey, I'm over here!",
+			"Don't move!",
+			"Stop! ... Hammer Time!"
         ]
     },{
         "type" : "snippet",
@@ -175,7 +234,14 @@
             "you",
             "dude",
             "buddy",
-            "man"
+            "man",
+			"chum",
+			"partner",
+			"comrade",
+			"drifter",
+			"wanderer",
+			"drifter",
+			"pilgrim"
         ]
     },{
         "type" : "snippet",
@@ -190,7 +256,8 @@
             "Stay with me!",
             "Keep close!",
             "Stay close!",
-            "Let's keep going!"
+            "Let's keep going!",
+			"Hustle!"
         ]
     },{
         "type" : "snippet",
@@ -205,7 +272,11 @@
             "I <really> need to rest.",
             "<ill_die> if we don't stop for a moment.",
             "Did you know that lack of rest kills faster than lack of food?",
-            "I'll just go to sleep, <okay>?"
+            "I'll just go to sleep, <okay>?",
+			"I need my beauty rest.",
+			"I need to hit the bricks.",
+			"let's hit the bricks <name_g>",
+			"I need to sleep to function, <name_g>,"
         ]
     },{
         "type" : "snippet",
@@ -234,7 +305,12 @@
             "you see",
             "see, <name_g>",
             "alright",
-            "that clear"
+            "that clear",
+			"ten-four",
+			"affirmative",
+			"correct",
+			"approved",
+			"alright"
         ]
     },{
         "type" : "snippet",
@@ -279,7 +355,8 @@
             "Move your <swear> ass, <name_b>!",
             "Out of my way, <name_b>!",
             "Move it, <name_g>!",
-            "You need to move, <name_g>, <okay>?"
+            "You need to move, <name_g>, <okay>?",
+			"Move, <swear> bitch!"
         ]
     },{
         "type" : "snippet",
@@ -294,7 +371,10 @@
             "Hasta luego, <name_g>!",
             "I'm outta here! <done_mugging>",
             "Bye bye, <name_b>!",
-            "Thanks, <name_g>!"
+            "Thanks, <name_g>!",
+			"Yo money is my money, sucka!",
+			"Gimme those green backs.",
+			"All your shit belongs to me!"
         ]
     },{
         "type" : "snippet",
@@ -399,7 +479,8 @@
             "I <really> need to eat something.",
             "<ill_die> if I don't get some food.",
             "Consider this idea: you give me food and I eat it.",
-            "Did you know that lack of food kills faster than chain smoking?"
+            "Did you know that lack of food kills faster than chain smoking?",
+			"I could eat a horse ... or you."
         ]
     },{
         "type" : "snippet",
